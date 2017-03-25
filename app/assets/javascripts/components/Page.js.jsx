@@ -6,6 +6,7 @@ class Page extends React.Component {
         return(
             <div>
                 <Nav />
+                <NewArtist />
                 <Artist />
                 <Footer />
             </div>
