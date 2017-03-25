@@ -1,28 +1,12 @@
-<<<<<<< HEAD
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
 # react-rails-pg
->>>>>>> 35735e1f62a67584869523e9732222e0ded3c4b9
+
+##Configuration
+
+###Rails Environment
+
+Ruby 2.4.0
+
+## To Dos
+
+* Delete Artist
+* Edit Artist
