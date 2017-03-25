@@ -19,6 +19,7 @@ class Artist extends React.Component {
 
         return(
             <div>
+                
                 { artists }
             </div>
         )
