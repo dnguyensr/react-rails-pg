@@ -1,24 +1,12 @@
 # react-rails-pg
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##Configuration
 
-Things you may want to cover:
+###Rails Environment
 
-* Ruby version
+Ruby 2.4.0
 
-* System dependencies
+## To Dos
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Delete Artist
+* Edit Artist
