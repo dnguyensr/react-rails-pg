@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# README
+# react-rails-pg
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -23,6 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# react-rails-pg
->>>>>>> 35735e1f62a67584869523e9732222e0ded3c4b9
