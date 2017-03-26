@@ -2,7 +2,6 @@ class NewArtist extends React.Component {
     constructor(props) {
         super(props)
         this.handleClick = this.handleClick.bind(this)
-        // this.handleChange = this.handleChange.bind(this)
     }
 
     handleChange(name, e) {
@@ -27,6 +26,7 @@ class NewArtist extends React.Component {
             }
         })
     }
+    
     render() {
         return(
             <form >

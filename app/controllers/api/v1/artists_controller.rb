@@ -12,7 +12,7 @@ class Api::V1::ArtistsController < Api::V1::BaseController
     end
     
     def update
-        artist = Artist.find(parms["id"])
+        artist = Artist.find(params["id"])
         artist.update_attributes(artist_params)
         respond_with artist, json: artist
     end
