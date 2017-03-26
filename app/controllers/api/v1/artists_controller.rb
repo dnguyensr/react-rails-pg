@@ -14,7 +14,7 @@ class Api::V1::ArtistsController < Api::V1::BaseController
     def update
         artist = Artist.find(parms["id"])
         artist.update_attributes(artist_params)
-        repsond_with artist, json: artist
+        respond_with artist, json: artist
     end
     
     private
