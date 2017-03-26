@@ -1,12 +1,11 @@
 # react-rails-pg
 
-##Configuration
+## Configuration
 
-###Rails Environment
+### Rails Environment
 
 Ruby 2.4.0
 
 ## To Dos
 
-* Delete Artist
 * Edit Artist
